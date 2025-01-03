@@ -1,5 +1,6 @@
 # Sistema de Autenticación Completo (React + Flask)
 
+## Autor : Diego Sanchez Chuquimango
 Este proyecto implementa un sistema de autenticación con registro, inicio de sesión y manejo de usuarios, utilizando **React** para el frontend y **Flask** para el backend, con autenticación JWT.
 
 ## Requisitos
